@@ -52,6 +52,12 @@
 
 ---
 
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/kalaivathanan/kalaivathanan/output/github-contribution-grid-snake-dark.svg" />
+</div>
+<hr/>
+
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/kalaivathanan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kalaivathanan" height="30" width="40" /></a>
