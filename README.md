@@ -9,9 +9,9 @@
   
 - 🌱 I’m currently learning **MERN**
 
-- 🧑‍🎓 I’m an Undergraduate at **London Metropolitan University**
+- 🧑‍🎓 I’m an Undergraduate at **LMU**
 
-- 💬 Ask me about **PHP**
+- 💬 Ask me about **React, PHP, javascript, java**
 
 - 📫 How to reach me **kalaivathanan4@gmail.com**
   
@@ -19,15 +19,11 @@
 
 </td>
 <td width="50%" align="center">
-
   <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
-
-  
   </td>
 </tr>
 </table>
-
----
+<hr/>
 
 <h3 align="center">My Statistics:</h3>
 <p align="center">
@@ -40,13 +36,10 @@
   <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=kalaivathanan&theme=dark&hide_border=false" /> 
 </td>
 <td width="50%" align="center">
-
   <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=kalaivathanan&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  
   </td>
 </tr>
 </table>
-
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kalaivathanan" alt="kalaivathanan" /></a> </p>
 
@@ -56,18 +49,10 @@
   <h2>🐍 My Contributions 🐍</h2>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/kalaivathanan/kalaivathanan/output/github-contribution-grid-snake-dark.svg" />
 </div>
-<hr/>
-
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://linkedin.com/in/kalaivathanan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kalaivathanan" height="30" width="40" /></a>
-<a href="https://fb.com/k.kalaivathanan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="k.kalaivathanan" height="30" width="40" /></a>
-<a href="https://instagram.com/kalaivathanan_k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kalaivathanan_k" height="30" width="40" /></a>
-</p>
 
 ---
 
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="center">🔥 Languages-Frameworks-Tools 🔥</h3>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=laravel,react,angular,nodejs,spring,express,javascript,java,php,cpp,mysql,postman,git,github" /><br>
@@ -75,5 +60,13 @@
   </a>
 </p>
 
+---
+
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+<a href="https://linkedin.com/in/kalaivathanan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kalaivathanan" height="30" width="40" /></a>
+<a href="https://fb.com/k.kalaivathanan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="k.kalaivathanan" height="30" width="40" /></a>
+<a href="https://instagram.com/kalaivathanan_k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kalaivathanan_k" height="30" width="40" /></a>
+</p>
 
 ---
