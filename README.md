@@ -67,6 +67,7 @@
 <a href="https://linkedin.com/in/kalaivathanan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kalaivathanan" height="30" width="40" /></a>
 <a href="https://fb.com/k.kalaivathanan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="k.kalaivathanan" height="30" width="40" /></a>
 <a href="https://instagram.com/kalaivathanan_k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kalaivathanan_k" height="30" width="40" /></a>
+  <a href="https://www.leetcode.com/kalaivathanan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shawnarun19" height="30" width="40" /></a>
 </p>
 
 ---
